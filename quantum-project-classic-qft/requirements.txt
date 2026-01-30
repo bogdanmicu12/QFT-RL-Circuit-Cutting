@@ -1,0 +1,3 @@
+qiskit>=2.0,<2.4
+qiskit-quantuminspire>=0.16.0
+qi-compute-api-client>=0.56.0
